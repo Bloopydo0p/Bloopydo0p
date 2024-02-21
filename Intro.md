@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bloopydo0p
+- Currently learning comp sci
+- learning basics in python right now probably will move onto java soon
+- Discord: bloopinc.
